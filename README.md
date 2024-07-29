@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gordon
 
-I'm currently a 1st-year at the University of British Columbia who's passionate about programming and tech!
+I'm a second year pursuing a Combined Major in Math and Computer Science at the University of British Columbia!
 
 
 <!--
