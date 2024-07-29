@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Gordon
+### 你好・こんにちは・Hello! 👋 I'm Gordon
 
 I'm a second year pursuing a Combined Major in Math and Computer Science at the University of British Columbia!
 
