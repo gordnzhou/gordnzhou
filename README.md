@@ -1,6 +1,9 @@
 ### 你好・こんにちは・Hello! 👋 I'm Gordon
 
-I'm a second year pursuing a Combined Major in Math and Computer Science at the University of British Columbia!
+Hi! 👋 I am a third-year Math and Computer Science student at the University of British Columbia.
+
+Check out more about me and my projects [here](https://gordnzhou.github.io/): 
+https://gordnzhou.github.io/
 
 
 <!--
