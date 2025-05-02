@@ -2,7 +2,7 @@
 
 Hi! 👋 I am a third-year Math and Computer Science student at the University of British Columbia.
 
-Check out more about me and my projects [here](https://gordnzhou.github.io/): 
+Check out more about me and my projects here: 
 https://gordnzhou.github.io/
 
 
