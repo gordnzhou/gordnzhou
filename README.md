@@ -1,6 +1,26 @@
-### 你好・こんにちは・Hello! 👋 I'm Gordon
+## 你好・Hello・まくどなるど! 👋 I'm Gordon
 
 Hi! 👋 I am a third-year Math and Computer Science student at the University of British Columbia.
+
+I am currently learning Vim and C.
+
+### Some of my Programming Languages
+- Python
+- C
+- C++
+- JavaScript
+- Rust
+- C#
+
+### Some Programmers I Think are Cool
+- [javidx9](https://www.youtube.com/@javidx9)
+- [Junferno](https://www.youtube.com/@Junferno)
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen) / The Primeagen
+- [Tsoding](https://www.youtube.com/@Tsoding)
+- [Jonathan Blow](https://www.youtube.com/@jblow888/videos)
+- [Magicalbat](https://www.youtube.com/@Magicalbat)
+- [Tom Delalande](https://www.youtube.com/@tom-delalande)
+
 
 Check out more about me and my projects here: 
 https://gordnzhou.github.io/
