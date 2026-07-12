@@ -1,6 +1,7 @@
 # 你好・Hello・まくどなるど ! 👋 I'm Gordon
 
-Hi! 👋 I am a third-year Math and Computer Science student at the University of British Columbia. Currently learning Vim and C.
+Check out more about me and my projects here: 
+https://gordonzhou.xyz/
 
 ## Some Programming Languages I Use
 - Python
@@ -18,9 +19,6 @@ Hi! 👋 I am a third-year Math and Computer Science student at the University o
 - [Jonathan Blow](https://www.youtube.com/@jblow888/videos)
 - [Magicalbat](https://www.youtube.com/@Magicalbat)
 - [Tom Delalande](https://www.youtube.com/@tom-delalande)
-
-Check out more about me and my projects here: 
-https://gordnzhou.github.io/
 
 
 <!--
