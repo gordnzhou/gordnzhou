@@ -11,6 +11,7 @@ https://gordonzhou.xyz/
 - Rust
 - C#
 
+<!--
 ## Some Programmers I Think are Cool (in no particular order)
 - [javidx9](https://www.youtube.com/@javidx9)
 - [Junferno](https://www.youtube.com/@Junferno)
@@ -19,6 +20,7 @@ https://gordonzhou.xyz/
 - [Jonathan Blow](https://www.youtube.com/@jblow888/videos)
 - [Magicalbat](https://www.youtube.com/@Magicalbat)
 - [Tom Delalande](https://www.youtube.com/@tom-delalande)
+-->
 
 
 <!--
